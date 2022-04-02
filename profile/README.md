@@ -10,4 +10,10 @@ Is a color scheme that comes with clean, opinionated and technical debt free imp
 
 ## Want more?
 
-Check out the [phocus page](https://phocus.github.io/) for detailed information about the color scheme and more examples. And browse the repositories below for theme implementations.
+Check out the [phocus page](https://phocus.github.io/) for detailed information and browse the repositories below for theme implementations.
+
+<img src="/profile/colors/red_normal.png">
+
+<img src="colors/red_normal.png">
+
+<img src="./colors/red_normal.png">
