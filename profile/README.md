@@ -2,7 +2,37 @@
 
 Is a color scheme that comes with clean, opinionated and technical debt free implementations (themes) for various tools.
 
-![one](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/one.png) ![two](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/two.png) ![three](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/three.png) ![four](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/four.png) ![five](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/five.png) ![elevate](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/elevate.png) ![light strong](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/light_strong.png) ![light normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/light_normal.png) ![light weak](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/light_weak.png) ![light mute](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/light_mute.png) ![dark strong](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/dark_strong.png) ![dark normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/dark_normal.png) ![dark weak](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/dark_weak.png) ![dark mute](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/dark_mute.png) ![red normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/red_normal.png) ![red light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/red_light.png) ![orange normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/orange_normal.png) ![orange light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/orange_light.png) ![yellow normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/yellow_normal.png) ![yellow light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/yellow_light.png) ![green normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/green_normal.png) ![green light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/green_light.png) ![cyan normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/cyan_normal.png) ![cyan light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/cyan_light.png) ![blue normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/blue_normal.png) ![blue light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/blue_light.png) ![purple normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/purple_normal.png) ![purple light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/purple_light.png) ![pink normal](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/pink_normal.png) ![pink light](https://raw.githubusercontent.com/phocus/.github/main/profile/colors/pink_light.png)
+![surface strongest](/profile/surface/strongest.png)
+![surface strong](/profile/surface/strong.png)
+![surface moderate](/profile/surface/moderate.png)
+![surface weak](/profile/surface/weak.png)
+![surface weakest](/profile/surface/weakest.png)
+![accent mono white strongest](/profile/accent/mono/white/strongest.png)
+![accent mono white strong](/profile/accent/mono/white/strong.png)
+![accent mono white moderate](/profile/accent/mono/white/moderate.png)
+![accent mono white weak](/profile/accent/mono/white/weak.png)
+![accent mono white weakest](/profile/accent/mono/white/weakest.png)
+![accent mono black strongest](/profile/accent/mono/black/strongest.png)
+![accent mono black strong](/profile/accent/mono/black/strong.png)
+![accent mono black moderate](/profile/accent/mono/black/moderate.png)
+![accent mono black weak](/profile/accent/mono/black/weak.png)
+![accent mono black weakest](/profile/accent/mono/black/weakest.png)
+![accent colored red normal](/profile/accent/colored/red/normal.png)
+![accent colored red light](/profile/accent/colored/red/light.png)
+![accent colored orange normal](/profile/accent/colored/orange/normal.png)
+![accent colored orange light](/profile/accent/colored/orange/light.png)
+![accent colored yellow normal](/profile/accent/colored/yellow/normal.png)
+![accent colored yellow light](/profile/accent/colored/yellow/light.png)
+![accent colored green normal](/profile/accent/colored/green/normal.png)
+![accent colored green light](/profile/accent/colored/green/light.png)
+![accent colored cyan normal](/profile/accent/colored/cyan/normal.png)
+![accent colored cyan light](/profile/accent/colored/cyan/light.png)
+![accent colored blue normal](/profile/accent/colored/blue/normal.png)
+![accent colored blue light](/profile/accent/colored/blue/light.png)
+![accent colored purple normal](/profile/accent/colored/purple/normal.png)
+![accent colored purple light](/profile/accent/colored/purple/light.png)
+![accent colored pink normal](/profile/accent/colored/pink/normal.png)
+![accent colored pink light](/profile/accent/colored/pink/light.png)
 
 ## To show a few examples
 
